@@ -1,0 +1,108 @@
+# Authors and Contributors
+
+This file lists the people who have contributed to this project.
+
+## Main Author
+
+**Luis Fernando**
+- Role: Lead Developer & Researcher
+- Institution: Instituto Politécnico Nacional (IPN)
+- Program: BEIFI Research Internship
+- Email: [your-email@example.com]
+- GitHub: [@your-username](https://github.com/your-username)
+- Contributions:
+  - Initial project conception and development
+  - Autonomous rover control system implementation
+  - Computer vision integration
+  - All C programming exercises (00-83)
+  - Documentation and project organization
+
+## Academic Advisors
+
+**[Advisor Name]**
+- Role: Research Supervisor
+- Institution: Instituto Politécnico Nacional (IPN)
+- Department: [Department Name]
+- Contributions:
+  - Project guidance and supervision
+  - Technical advice and review
+
+## Contributors
+
+If you have contributed to this project, please add your name here following this format:
+
+**[Your Name]**
+- Role: [Your Role]
+- GitHub: [@your-username](https://github.com/your-username)
+- Contributions:
+  - [Brief description of contributions]
+
+## How to Contribute
+
+Interested in contributing? See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## Acknowledgments
+
+We would like to thank the following people and organizations for their support:
+
+### Institutions
+- **Instituto Politécnico Nacional (IPN)** - Primary academic institution
+- **BEIFI Program** - Research internship funding and support
+
+### Open Source Community
+- Intel RealSense team - Camera SDK and documentation
+- NVIDIA - Jetson platform and CUDA support
+- OpenCV contributors - Computer vision library
+- Python community - Language and ecosystem
+- GCC developers - C compiler
+
+### Libraries and Tools
+- pyrealsense2 - Intel RealSense Python SDK
+- OpenCV - Computer vision and image processing
+- NumPy - Numerical computing
+- Matplotlib - Data visualization
+- Jupyter - Interactive computing notebooks
+
+### Educational Resources
+- Stack Overflow community - Problem-solving assistance
+- GitHub community - Code hosting and collaboration
+- Academic papers and research - Theoretical foundation
+
+## Code Attribution
+
+Some portions of this project were inspired by or adapted from:
+
+- Intel RealSense examples - Camera initialization and frame handling
+- OpenCV tutorials - Image processing techniques
+- PID control literature - Control system implementation
+
+All adaptations have been modified to fit the specific needs of this project
+and properly attributed where applicable.
+
+## License
+
+All contributions to this project are licensed under the MIT License unless
+otherwise specified. See [LICENSE](LICENSE) for details.
+
+## Contact
+
+For questions about contributions or authorship, please contact:
+
+**Luis Fernando**
+- Email: [your-email@example.com]
+- Institution: Instituto Politécnico Nacional (IPN)
+
+---
+
+*Last updated: January 9, 2025*
+
+---
+
+<div align="center">
+
+**Instituto Politécnico Nacional**
+
+*La Técnica al Servicio de la Patria*
+
+</div>
+
